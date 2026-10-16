@@ -1,0 +1,28 @@
+test_01_create_and_add_questions (test_system.SystemTests.test_01_create_and_add_questions) ... ok
+test_02_login_password_and_session (test_system.SystemTests.test_02_login_password_and_session) ... ok
+test_03_all_jump_types (test_system.SystemTests.test_03_all_jump_types) ... ok
+test_04_validation_and_forged_answers (test_system.SystemTests.test_04_validation_and_forged_answers) ... ok
+test_05_rule_schema_and_conflicts (test_system.SystemTests.test_05_rule_schema_and_conflicts) ... ok
+test_06_submit_anonymous_and_duplicate (test_system.SystemTests.test_06_submit_anonymous_and_duplicate) ... ok
+test_07_repeat_idempotency_and_statistics (test_system.SystemTests.test_07_repeat_idempotency_and_statistics) ... ok
+test_08_ownership_and_lifecycle (test_system.SystemTests.test_08_ownership_and_lifecycle) ... ok
+test_09_deadline_and_anonymous_restriction (test_system.SystemTests.test_09_deadline_and_anonymous_restriction) ... ok
+test_10_concurrent_no_repeat (test_system.SystemTests.test_10_concurrent_no_repeat) ... ok
+test_11_http_workflow_and_csrf (test_system.SystemTests.test_11_http_workflow_and_csrf) ... ok
+test_12_mongodb_schema_rejects_bad_record (test_system.SystemTests.test_12_mongodb_schema_rejects_bad_record) ... ok
+test_13_multiuser_concurrent (test_system.SystemTests.test_13_multiuser_concurrent) ... ok
+test_14_optional_zero_and_operator_edges (test_system.SystemTests.test_14_optional_zero_and_operator_edges) ... ok
+test_15_empty_statistics_and_username_uniqueness (test_system.SystemTests.test_15_empty_statistics_and_username_uniqueness) ... ok
+test_16_all_declared_validation_limits (test_system.SystemTests.test_16_all_declared_validation_limits) ... ok
+test_17_create_deadline_configuration (test_system.SystemTests.test_17_create_deadline_configuration) ... ok
+test_18_partial_settings_and_revision (test_system.SystemTests.test_18_partial_settings_and_revision) ... ok
+test_19_unsaved_preview_is_read_only (test_system.SystemTests.test_19_unsaved_preview_is_read_only) ... ok
+test_20_empty_draft_and_invalid_settings (test_system.SystemTests.test_20_empty_draft_and_invalid_settings) ... ok
+test_21_delete_target_requires_clean_references (test_system.SystemTests.test_21_delete_target_requires_clean_references) ... ok
+test_22_aggregation_pages_and_global_average (test_system.SystemTests.test_22_aggregation_pages_and_global_average) ... ok
+test_23_http_preview_validates_without_submission (test_system.SystemTests.test_23_http_preview_validates_without_submission) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 6.460s
+
+OK

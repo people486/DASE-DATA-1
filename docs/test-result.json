@@ -1,0 +1,8 @@
+{
+  "executed_at": "2026-10-16T13:06:12.664916+08:00",
+  "database": "真实MongoDB，随机lab4_test_前缀数据库，结束删除本次测试库",
+  "tests": 23,
+  "failures": 0,
+  "errors": 0,
+  "successful": true
+}
