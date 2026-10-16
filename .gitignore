@@ -1,0 +1,27 @@
+# 本机环境与业务数据
+.venv/
+venv/
+.packages/
+.mongo/
+.env
+.env.*
+!.env.example
+
+# 自动生成的缓存与日志
+__pycache__/
+*.py[cod]
+*.log
+docs/rendered/
+.pytest_cache/
+
+# 课程原始附件、本机备份和平台提交文件
+/作业要求/
+/文档修订备份/
+/提交材料/
+/教师验收版/
+*.zip
+*.pdf
+/GitHub上传清单.txt
+.DS_Store
+Thumbs.db
+~$*
